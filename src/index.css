@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: oatmeal-pro-regular;
+  src: url(../public/OatmealProTRIAL-Regular.otf);
+}
+
+
+.article-container {
+  font-family: oatmeal-pro-regular;
+  font-size: 18px;
+  line-height: 1.3;
+  max-width: 100%;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+  /* border-radius: 1rem; */
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+  text-align: left;
+  /* position: absolute; */
+}
+
+.article-container img {
+  width: 100%;
+}
+
+
+/* .info-window {
+  position: absolute;
+} */
+
+.article-container h1 {
+  font-size: 28px;
+  
+  margin-top: 2rem;
+}
+
+.info-window-content{
+  /* height: auto !important; */
+  /* max-height: 80vh; */
+}
+
+.info-window-content button {
+  font-size: 12px;
+  margin-bottom: 8px;
+  height: 40px;
+  width: auto;
+  border-radius: .6rem !important;
+}
+
+
+.fullscreen-icon {
+  width: 30px;
+  cursor: pointer;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  transition: transform 0.1s ease-in-out;
+}
+
+.fullscreen-icon:hover {
+  transform: scale(1.1);
+  /* Adjust the scale factor as per your preference */
+}
+
+.x-icon {
+  width: 25px;
+  cursor: pointer;
+  position: absolute;
+  right: -85px;
+  top: 10px;
+  transition: transform 0.1s ease-in-out;
+}
+
+.x-icon:hover {
+  transform: scale(1.1);
+  /* Adjust the scale factor as per your preference */
+}
+
+
+
+
+.gm-style-iw-t{
+  width: 100%;
+  background-color: red;
+}
+
+
+.gm-style-iw-d  {
+  /* position: absolute; */
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+  /* display: none; */
+}
+
+.reset-button {
+  width: 100px;
+  height: 40px;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  font-family: oatmeal-pro-regular;
+  display: flex;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: 10;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: .5rem;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6);
+  /* Add other styles as needed */
+  transition: transform 0.2s ease-in-out;
+}
+
+.reset-button:hover {
+  transform: scale(1.05);
+}
+
+.map-container {
+  position: relative;
+}
