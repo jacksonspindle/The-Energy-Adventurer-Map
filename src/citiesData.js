@@ -1259,8 +1259,10 @@ const cities = [
         <p>
           The Himalayan foothills rising from India’s eastern plains can seem as
           far removed from the hectic world of global commerce as the Sundarbans
-          swamps we visited earlier in our journey, <a href="#">here</a>,{" "}
-          <a href="#">here</a>, and <a href="#">here</a>.
+          swamps we visited earlier in our journey,{" "}
+          <a href="#https://billspindle.substack.com/">here</a>,
+          <a href="https://billspindle.substack.com/">here</a>, and{" "}
+          <a href="https://billspindle.substack.com/">here</a>.
         </p>
 
         <p>
@@ -1312,8 +1314,9 @@ const cities = [
 
         <p>
           My spouse and sometimes travel companion Michele and (who you’ll
-          recall from this earlier <a href="#">post</a>) and I, arrived in
-          Darjeeling in March. The gardens were just beginning their annual
+          recall from this earlier{" "}
+          <a href="https://billspindle.substack.com/">post</a>) and I, arrived
+          in Darjeeling in March. The gardens were just beginning their annual
           growing and picking cycle, the all-important first growth, or more
           poetically, ‘first flush.’ One of four pickings that take place before
           October, the first flush is the only one that follows a dormancy

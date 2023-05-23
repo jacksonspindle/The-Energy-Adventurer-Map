@@ -1,11 +1,5 @@
-import React, { useEffect, useState } from "react";
-import {
-  GoogleMap,
-  useLoadScript,
-  MarkerF,
-  InfoWindow,
-  OverlayView,
-} from "@react-google-maps/api";
+import React, { useState } from "react";
+import { GoogleMap, useLoadScript, MarkerF } from "@react-google-maps/api";
 import { motion } from "framer-motion";
 import cities from "./citiesData.js";
 
