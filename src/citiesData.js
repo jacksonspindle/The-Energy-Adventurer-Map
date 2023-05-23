@@ -1837,6 +1837,7 @@ const cities = [
       "https://billspindle.substack.com/p/the-indian-railway-coal-paradox",
     articleContent: () => (
       <div>
+        <h1>The Indian Railway Coal Paradox</h1>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdbb9d775-ffaf-424d-b627-7d8cf2fa2d8c_4032x3024.jpeg"
           alt="bill spindle"

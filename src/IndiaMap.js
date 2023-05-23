@@ -210,6 +210,11 @@ const IndiaMap = () => {
               title={city.name}
               // onClick={() => setSelectedCity(city)}
               onClick={() => handleMarkerClick(city)}
+              icon={{
+                url: "https://em-content.zobj.net/thumbs/160/apple/76/round-pushpin_1f4cd.png",
+                scaledSize: new window.google.maps.Size(60, 60),
+                anchor: new window.google.maps.Point(14, 60),
+              }}
             />
           ))}
           {selectedCity && (
