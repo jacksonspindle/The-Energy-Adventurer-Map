@@ -10,7 +10,7 @@ const mapContainerStyle = {
 
 const center = {
   lat: 22.3511148,
-  lng: 78.6677428,
+  lng: 82.6677428,
 };
 
 const options = {
@@ -77,7 +77,7 @@ const IndiaMap = () => {
       fillOpacity: 0.8,
     });
   };
-  const defaultZoom = 5;
+  const defaultZoom = window.innerWidth < 480 ? 3.5 : 5;
 
   const resetMapView = () => {
     mapRef.current.panTo(center);
@@ -142,12 +142,36 @@ const IndiaMap = () => {
       right: isFullScreen ? 0 : 190,
       display: isFullScreen ? "flex" : "block",
       bottom: 0,
+      zIndex: 11,
     };
 
     const articleContainerStyle = {
       padding: isFullScreen ? "0 20%" : "20px 45px 0 45px",
       borderRadius: isFullScreen ? "none" : "1rem",
+      height: isFullScreen ? "100vh" : "83%",
+      backgroundColor: "white",
     };
+
+    if (window.innerWidth < 480) {
+      containerStyle.width = isFullScreen ? "100vw" : "70vw";
+      containerStyle.right = isFullScreen ? 0 : 100;
+      containerStyle.zIndex = 11;
+      containerStyle.height = isFullScreen ? "100vh" : "81%";
+      containerStyle.top = isFullScreen ? 0 : 110;
+      articleContainerStyle.padding = isFullScreen
+        ? "0 12%"
+        : "20px 45px 0 45px";
+    }
+
+    if (window.innerWidth < 380) {
+      containerStyle.height = isFullScreen ? "100vh" : "70%";
+    }
+
+    if (window.innerWidth > 1200) {
+      articleContainerStyle.padding = isFullScreen
+        ? "0 25%"
+        : "20px 45px 0 45px";
+    }
 
     return (
       <motion.div
@@ -192,7 +216,7 @@ const IndiaMap = () => {
         )}
         <GoogleMap
           mapContainerStyle={mapContainerStyle}
-          zoom={5}
+          zoom={defaultZoom}
           center={center}
           options={options}
           onLoad={onLoad}
@@ -202,11 +226,10 @@ const IndiaMap = () => {
               key={index}
               position={city.position}
               title={city.name}
-              // onClick={() => setSelectedCity(city)}
               onClick={() => handleMarkerClick(city)}
               icon={{
                 url: "https://em-content.zobj.net/thumbs/160/apple/76/round-pushpin_1f4cd.png",
-                scaledSize: new window.google.maps.Size(60, 60),
+                scaledSize: new window.google.maps.Size(30, 30),
                 anchor: new window.google.maps.Point(14, 60),
               }}
             />

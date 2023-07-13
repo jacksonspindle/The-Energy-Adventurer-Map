@@ -328,29 +328,44 @@ const cities = [
           forward with climate solutions, multitasking our way through a
           plethora of emergencies competing for our attention, many caused in
           part or worsened by climate change itself. One only need to read the
-          news, albeit now on the inside pages, sidebar scrolls and
-          off-prime-time broadcasts, to be reminded of this urgency.
+          &nbsp;
+          <a href="https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/">
+            news
+          </a>
+          , albeit now on the inside pages, sidebar scrolls and off-prime-time
+          broadcasts, to be reminded of this urgency.
         </p>
 
         <p>
           So I’m forging ahead here with the second of three posts on my visit
-          to the Indian Sundarbans (the first). Here the war in Ukraine seems
-          distant, while the ravages of global warming present immediate
-          challenges each day. Bricks and sandbags accumulate in every village
-          this time of year, as the annual reinforcement of homes and river
-          embankments against cyclones takes place. It’s one of the many
-          practices that once provided a measure of protection against rising
-          waters but are now increasingly found wanting in the face of the more
-          frequent and powerful storms global warming generates.
+          to the Indian Sundarbans (the{" "}
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate?s=w">
+            first
+          </a>
+          ). Here the war in Ukraine seems distant, while the ravages of global
+          warming present immediate challenges each day. Bricks and sandbags
+          accumulate in every village this time of year, as the annual
+          reinforcement of homes and river embankments against cyclones takes
+          place. It’s one of the many practices that once provided a measure of
+          protection against rising waters but are now increasingly found
+          wanting in the face of the more frequent and powerful storms global
+          warming generates.
         </p>
 
         <p>
           So far in this newsletter, we’ve visited a tiny, cattle-fueled biogas
-          facility serving a school (this earlier post) and a mangrove
-          restoration initiative by a curious botanist (my last post, as also
-          linked above). Here we look at a community resilience-building
-          initiative started by a village-born kid turned international IT
-          consultant who is now helping back home.
+          facility serving a school (this{" "}
+          <a href="https://billspindle.substack.com/p/two-hundred-cows-two-tons-of-manure?s=w">
+            earlier
+          </a>{" "}
+          post) and a mangrove restoration initiative by a curious botanist (my
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate?s=w">
+            {" "}
+            last
+          </a>{" "}
+          post, as also linked above). Here we look at a community
+          resilience-building initiative started by a village-born kid turned
+          international IT consultant who is now helping back home.
         </p>
 
         <p>
@@ -395,11 +410,12 @@ const cities = [
         <p>
           Halder, 48, lives in Kolkata now with his wife and two teenage
           daughters. But he spends a lot of time back in Purba Shridharpur.
-          There he runs Mukti, a private nonprofit organization aiming to build
-          a kind of community resilience he hopes can stand up to the ravages of
-          climate change even in the Sundarbans, one of the most vulnerable
-          places on the planet. Gradually he’s expanding the approach across the
-          state of West Bengal and beyond.
+          There he runs <a href="https://muktiweb.org/"> Mukti</a>, a private
+          nonprofit organization aiming to build a kind of community resilience
+          he hopes can stand up to the ravages of climate change even in the
+          Sundarbans, one of the most vulnerable places on the planet. Gradually
+          he’s expanding the approach across the state of West Bengal and
+          beyond.
         </p>
         <p>
           Born under a thatch roof, educated in a big city, internationalized
@@ -578,10 +594,19 @@ const cities = [
           Getting this far in my Sundarbans journey had already been an
           adventure. Five days earlier I had bumped along potholed and buckling
           roads from the nearest big city, Kolkata (once known as Calcutta).
-          Three days aboard a boat with a team of researchers transported me
-          across the Sundarbans. Another five-hour jostling car ride and I was
-          in the village of Purba Shridharpur, where I saw how everything from
-          housing to education helps build climate resilience.
+          Three days aboard a boat with a team of{" "}
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate?s=w">
+            {" "}
+            researchers
+          </a>{" "}
+          transported me across the Sundarbans. Another five-hour jostling car
+          ride and I was in the village of Purba Shridharpur, where I{" "}
+          <a href="https://billspindle.substack.com/p/breaking-the-cycle-beating-the-cyclones?s=w">
+            {" "}
+            saw
+          </a>{" "}
+          how everything from housing to education helps build climate
+          resilience.
         </p>
 
         <img
@@ -622,9 +647,13 @@ const cities = [
           undisturbed forest, I looked up in wonder to see more bees than I’d
           ever been around in my life. Their buzzing filled the air as they
           weaved in and out of a tangle of flowers in a Nim tree (a.k.a. Indian
-          Lilac or, scientifically, Azadirachta indica, as my botanist guides
-          informed me). This is the rich density of life the Sundarbans is known
-          for.
+          Lilac or, scientifically,{" "}
+          <a href="https://en.wikipedia.org/wiki/Azadirachta_indica">
+            {" "}
+            Azadirachta indica
+          </a>
+          , as my botanist guides informed me). This is the rich density of life
+          the Sundarbans is known for.
         </p>
 
         <img
@@ -824,7 +853,11 @@ const cities = [
         <p>
           The pilgrims, some annual attendees, others on a once-a-lifetime
           journey of faith, file down to a beach facing the Bay of Bengal to
-          purify themselves in the waters. Why they do this here is a fiery tale
+          purify themselves in the waters. Why they do this here is a{" "}
+          <a href="https://www.gangasagar.in/en/about/mythologicalsignificance">
+            {" "}
+            fiery tale
+          </a>{" "}
           of sin and absolution. Suffice it to say, this is where, in Hindu
           mythology, the gentle and holy waters of the Ganges find the sea after
           gushing from the big toe of Vishnu and then are tamed by falling
@@ -1095,12 +1128,16 @@ const cities = [
           that came online in 1983.
         </p>
         <p>
-          The Ithai Hydropower Dam was conceived and constructed with little
-          environmental review or consideration for how it would affect the
-          villagers and the local ecosystem. It flooded some 83,000 hectares of
-          farmland and pasture — an area the size of New York City. Over time,
-          this has caused what was essentially a very wide and shallow
-          meandering river to stall and silt up.
+          The Ithai Hydropower Dam was conceived and constructed with{" "}
+          <a href="https://pulitzercenter.org/stories/manipur-ithai-dam-threatens-loktak-wetland">
+            {" "}
+            little environmental review
+          </a>{" "}
+          or consideration for how it would affect the villagers and the local
+          ecosystem. It flooded some 83,000 hectares of farmland and pasture —
+          an area the size of New York City. Over time, this has caused what was
+          essentially a very wide and shallow meandering river to stall and silt
+          up.
         </p>
         <p>
           Invasive species have out-competed the native plants and animals in
@@ -1142,28 +1179,41 @@ const cities = [
           Finally, I visited a World War II cemetery in Imphal and several
           battlefields outside the city. History has long focused on the two
           main theaters of WWII — Europe and the Pacific. But the war was fought
-          here, too, as Japan pursued what was known as the Burma campaign, an
-          almost insane attempt to fight their way across British-controlled
-          Burma and into British-controlled India that nearly worked.
+          here, too, as Japan pursued what was known as the{" "}
+          <a href="https://en.wikipedia.org/wiki/Burma_campaign">
+            {" "}
+            Burma campaign
+          </a>
+          , an almost insane attempt to fight their way across
+          British-controlled Burma and into British-controlled India that nearly
+          worked.
         </p>
         <p>
           Between March and July of 1944, the hills around Imphal and the plain
           approaching the city were the scene of some of the most awful fighting
           in the long, brutal war, which is saying something. The battles of
-          Imphal and nearby Kohima, a hilltop city now in the neighboring Indian
-          state of Nagaland, became an underappreciated turning point in the war
-          in Asia.
+          <a href="https://en.wikipedia.org/wiki/Battle_of_Imphal">
+            {" "}
+            Imphal
+          </a>{" "}
+          and nearby{" "}
+          <a href="https://en.wikipedia.org/wiki/Battle_of_Kohima"> Kohima</a>,
+          a hilltop city now in the neighboring Indian state of Nagaland, became
+          an underappreciated turning point in the war in Asia.
         </p>
         <p>
           I visited Kohima a few years ago and walked through its WWII cemetery.
           The graveyard sits next to where one of the most grueling battles
           between the Japanese and Western Allies took place, the Battle of the
-          Tennis Court. This is where the Japanese advance into India was
-          stopped. The total cost for the Allies at Imphal was 12,500 casualties
-          with another 4,000 casualties at Kohima. Some 54,000 Japanese troops
-          died, 13,300 or so killed in fighting. Most of the rest simply starved
-          in the rainy, junglely hills at the fag end of their broken supply
-          lines.
+          <a href="https://en.wikipedia.org/wiki/Battle_of_the_Tennis_Court">
+            {" "}
+            Tennis Court
+          </a>
+          . This is where the Japanese advance into India was stopped. The total
+          cost for the Allies at Imphal was 12,500 casualties with another 4,000
+          casualties at Kohima. Some 54,000 Japanese troops died, 13,300 or so
+          killed in fighting. Most of the rest simply starved in the rainy,
+          junglely hills at the fag end of their broken supply lines.
         </p>
         <p>
           The Imphal cemetery, like Kohima’s, is the final resting place of
@@ -1171,9 +1221,14 @@ const cities = [
           teenagers. They came from the English countryside, Scotland and Wales.
           Nepali Ghurkhas fought and died, as well, and Africans from British
           colonies there. The Indians who died — and through a cruel twist of
-          history Indians fought on both sides — came from parts of the British
-          empire so far from where they were killed that they must have felt
-          themselves to be in an equally distant and foreign land.
+          history Indians fought on{" "}
+          <a href="https://en.wikipedia.org/wiki/Indian_National_Army">
+            {" "}
+            both sides
+          </a>{" "}
+          — came from parts of the British empire so far from where they were
+          killed that they must have felt themselves to be in an equally distant
+          and foreign land.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8bcbc6b-b61e-4d09-939a-5cdbf3408fb7_4032x3024.jpeg"
@@ -1182,15 +1237,24 @@ const cities = [
         <p>
           Even more sobering was my visit a battlefield with a group of visiting
           British and Americans, guided by Yumnan Rajeshwor Singh, an Imphal
-          local who has organized tours like these, built a museum and even
-          helps try to recover remains and personal items for familes on all
-          sides of the conflict. We peered into still-existing Allied foxholes,
-          looked out across the plain toward where Japanese soldiers poured out
-          of the hills. We tried to imagine what that must have been like. Even
-          stranger is to imagine what the local tribal peoples indigenous to the
-          area experienced. They had their own history of violent clashes with
-          each other, but this wasn’t their fight and it must have dumbfounded
-          them as to why it was raging with such intensity here.
+          local who has{" "}
+          <a href="https://www.facebook.com/imphalcampaign/">
+            {" "}
+            organized tours
+          </a>{" "}
+          like these, built a museum and even helps try to{" "}
+          <a href="https://www.itv.com/news/2020-10-05/the-battlefield-diggers-of-india-uncovering-the-history-of-a-battle-that-turned-the-tide-of-wwii-in-asia">
+            {" "}
+            recover
+          </a>{" "}
+          remains and personal items for familes on all sides of the conflict.
+          We peered into still-existing Allied foxholes, looked out across the
+          plain toward where Japanese soldiers poured out of the hills. We tried
+          to imagine what that must have been like. Even stranger is to imagine
+          what the local tribal peoples indigenous to the area experienced. They
+          had their own history of violent clashes with each other, but this
+          wasn’t their fight and it must have dumbfounded them as to why it was
+          raging with such intensity here.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79eafaee-c9bf-4f9f-8cad-4ef0f1fdcacb_4032x3024.jpeg"
@@ -1260,9 +1324,18 @@ const cities = [
           The Himalayan foothills rising from India’s eastern plains can seem as
           far removed from the hectic world of global commerce as the Sundarbans
           swamps we visited earlier in our journey,{" "}
-          <a href="#https://billspindle.substack.com/">here</a>,
-          <a href="https://billspindle.substack.com/">here</a>, and{" "}
-          <a href="https://billspindle.substack.com/">here</a>.
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate?s=w">
+            here
+          </a>
+          ,
+          <a href="https://billspindle.substack.com/p/breaking-the-cycle-beating-the-cyclones">
+            here
+          </a>
+          , and{" "}
+          <a href="https://billspindle.substack.com/p/the-end-of-the-road-for-climate?s=w">
+            here
+          </a>
+          .
         </p>
 
         <p>
@@ -1371,19 +1444,25 @@ const cities = [
           India, is among a younger generation of estate owners determined to do
           just that. He’s overseen the installation of drains through the
           group’s gardens to capture and slow the huge volumes of water that run
-          down the slopes during intense rain ‘bombs’. They’ve built bamboo
-          frames to hold the soil in place. He’s been deeply involved in his
-          estates’ transition to organic farming, an ambitious overhaul of
-          almost every aspect of how the plantations operate, from substituting
-          natural for manufactured fertilizers and eliminating chemical
-          pesticides to nurturing swaths of uncultivated wilderness on their
-          lands. The shift to organic methods got started at many plantations at
-          the insistence of buyers in Europe, but many growers like Mohan have
-          embraced the new methods as one of their best tools to build up the
-          resilience of their bushes against new stresses from changing climate.
-          For some, the efforts have become a sort of natural version of the
-          kaizen — or “continuous improvement” — ethos that pervaded the
-          Japanese auto industry I covered in the early 1990s.
+          down the slopes during intense{" "}
+          <a href="https://www.nytimes.com/2021/07/26/world/asia/india-landslides-floods.html?referringSource=articleShare">
+            {" "}
+            rain ‘bombs’
+          </a>
+          . They’ve built bamboo frames to hold the soil in place. He’s been
+          deeply involved in his estates’ transition to organic farming, an
+          ambitious overhaul of almost every aspect of how the plantations
+          operate, from substituting natural for manufactured fertilizers and
+          eliminating chemical pesticides to nurturing swaths of uncultivated
+          wilderness on their lands. The shift to organic methods got started at
+          many plantations at the insistence of buyers in Europe, but many
+          growers like Mohan have embraced the new methods as one of their best
+          tools to build up the resilience of their bushes against new stresses
+          from changing climate. For some, the efforts have become a sort of
+          natural version of the{" "}
+          <a href="https://en.wikipedia.org/wiki/Kaizen"> kaizen</a> — or
+          “continuous improvement” — ethos that pervaded the Japanese auto
+          industry I covered in the early 1990s.
         </p>
 
         <p>
@@ -1397,10 +1476,13 @@ const cities = [
           I recommend to anyone with a deeper interest in the region’s tea a
           delightful book I drew on extensively for my visit: Darjeeling, The
           Colorful History and Precarious Fate of the World’s Greatest Tea, by
-          Jeff Koehler. Koehler tells the whole fascinating history of the
-          region along with a thorough look at the industry’s current
-          challenges. It includes a cast of characters worthy of the tea the
-          region produces.
+          <a href="https://www.amazon.in/Jeff-Koehler/e/B001JSDU0Y%3Fref=dbs_a_mng_rwt_scns_share">
+            {" "}
+            Jeff Koehler
+          </a>
+          . Koehler tells the whole fascinating history of the region along with
+          a thorough look at the industry’s current challenges. It includes a
+          cast of characters worthy of the tea the region produces.
         </p>
 
         <img
@@ -1810,16 +1892,21 @@ const cities = [
         </p>
         <p>
           Have a listen to the audio report (button above), edited and produced
-          by the masterful Diana Chester, an audio producer, multimedia artist
-          and digital media scholar who also teaches at the University of
-          Sydney.
+          by the masterful{" "}
+          <a href="https://sydney.academia.edu/DrDianaChester">
+            {" "}
+            Diana Chester
+          </a>
+          , an audio producer, multimedia artist and digital media scholar who
+          also teaches at the University of Sydney.
         </p>
         <blockquote class="twitter-tweet">
           <p lang="en" dir="ltr">
             At Nuxalbari’s Nawab Division this evening{" "}
             <a href="https://t.co/x7GEbhy6pg">pic.twitter.com/x7GEbhy6pg</a>
           </p>
-          &mdash; Nuxalbari Tea Estate (@NuxalbariTea){" "}
+          &mdash; <a href="https://nuxalbaritea.com/"> Nuxalbari</a> Tea Estate
+          (@NuxalbariTea){" "}
           <a href="https://twitter.com/NuxalbariTea/status/1445788514851823622?ref_src=twsrc%5Etfw">
             October 6, 2021
           </a>
@@ -1867,9 +1954,15 @@ const cities = [
           fuel, nearly all of which India must import.
         </p>
         <p>
-          My visit to the Chittaranjan Locomotive Works, after a ride on one of
-          the last coal-fired trains on the planet, underscored how far the
-          railway has come — and how far it has to go.
+          My visit to the{" "}
+          <a href="https://clw.indianrailways.gov.in/"> Chittaranjan</a>{" "}
+          Locomotive Works, after a ride on one of the{" "}
+          <a href="https://billspindle.substack.com/p/two-trains-one-transition">
+            {" "}
+            last coal-fired trains
+          </a>{" "}
+          on the planet, underscored how far the railway has come — and how far
+          it has to go.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec0c153a-4d1c-4e7e-b1e1-132ffce537ae_4032x3024.jpeg"
@@ -2207,9 +2300,18 @@ const cities = [
         <span>A Kite. Photo by Bill Spindle</span>
         <br></br>
         <p>
-          One third of Pakistan under water from a deluge of rain and glacial
-          melt. California broiling under all-time record heat, in September. A
-          “doomsday” ice sheet melting in Antarctica.
+          One third of Pakistan{" "}
+          <a href="https://edition.cnn.com/2022/08/31/asia/pakistan-floods-forms-inland-lake-satellite-intl-hnk/index.html">
+            {" "}
+            under water
+          </a>{" "}
+          from a deluge of rain and glacial melt. California{" "}
+          <a href="https://www.sfchronicle.com/weather/article/california-heat-wave-live-updates-17416492.php">
+            {" "}
+            broiling
+          </a>{" "}
+          under all-time record heat, in September. A “doomsday” ice sheet
+          melting in Antarctica.
         </p>
         <p>
           The challenges of climate change and the transformation of our lives
@@ -2223,8 +2325,12 @@ const cities = [
           ecosystems can be. Addressed properly, damage can be reversed.
         </p>
         <p>
-          But only if the planet isn’t pushed too far, very much our current
-          trajectory.
+          But only if the planet isn’t{" "}
+          <a href="https://www.nature.com/articles/s41559-022-01850-8">
+            {" "}
+            pushed too far
+          </a>
+          , very much our current trajectory.
         </p>
         <p>
           Few cities are as polluted as Delhi, and even fewer with the size of
@@ -2248,16 +2354,21 @@ const cities = [
         </span>
         <br></br>
         <p>
-          Like Dr. Krishna Ray, who we met earlier in the journey working to
-          restore mangrove habitats in India’s Sundarbans, Khudsar studied under
-          Prof. C.R. Babu. Babu trained many of India’s prominent environmental
-          scientists, including Ray’s spouse, another botonist whose research
-          has focused on restoring Himalayan ecosystems. Babu pioneered many of
-          the principles of what he calls “reconstructing” severely degraded
-          natural habitats. As we saw with Ray’s work in the Sundarbans, it
-          takes many years and often starts with grasses that gradually change
-          the microbial and chemical composition of the soil so that other
-          native species can re-establish themselves.
+          Like Dr. Krishna Ray, who we{" "}
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate">
+            {" "}
+            met earlier
+          </a>{" "}
+          in the journey working to restore mangrove habitats in India’s
+          Sundarbans, Khudsar studied under Prof. C.R. Babu. Babu trained many
+          of India’s prominent environmental scientists, including Ray’s spouse,
+          another botonist whose research has focused on restoring Himalayan
+          ecosystems. Babu pioneered many of the principles of what he calls
+          “reconstructing” severely degraded natural habitats. As we saw with
+          Ray’s work in the Sundarbans, it takes many years and often starts
+          with grasses that gradually change the microbial and chemical
+          composition of the soil so that other native species can re-establish
+          themselves.
         </p>
         <p>
           “This is the only way to preserve the natural heritage in urban
@@ -2267,7 +2378,7 @@ const cities = [
         <p>
           Khudsar’s enthusiasm for this patch of nature he’s helped restore is
           infectious, and comes through in this similar tour available on
-          YouTube.
+          <a href="https://www.youtube.com/watch?v=Or0GY6dh2pY"> YouTube</a>.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9d45a0c7-f04f-4956-904d-21a7335ff1e4_5472x3648.jpeg"
@@ -2539,14 +2650,24 @@ const cities = [
           topped 120 degrees fahrenheit. It was easy to understand why Rajasthan
           has installed more solar capacity than any other Indian state. The
           state racked up almost half of all the renewable energy built in India
-          through August, according to statistics compiled by Ember.
+          through August, according to{" "}
+          <a href="https://ember-climate.org/insights/research/india-race-to-175-gw-renewables-updates/#supporting-material-downloads">
+            {" "}
+            statistics
+          </a>{" "}
+          compiled by Ember.
         </p>
         <p>
           Just days later and a few hundred miles away in the state of Gujarat,
           I stared up at wind towers operated by another of India’s biggest
           renewable energy companies, ReNew Power. Gujarat, the other powerhost
-          of India’s renewable energy boom, hosted almost two-thirds of the 1.1
-          gigawatts of new wind generation built in the country through August.
+          of India’s renewable{" "}
+          <a href="https://billspindle.substack.com/p/from-gujarat-to-the-world-and-back">
+            {" "}
+            energy boom
+          </a>
+          , hosted almost two-thirds of the 1.1 gigawatts of new wind generation
+          built in the country through August.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7cc279a9-a0aa-4738-9807-fe060f6da2fc_4032x3024.jpeg"
@@ -2791,8 +2912,12 @@ const cities = [
           Australia and Chile, North Africa and the Western United States — that
           have plentiful cheap renewable energy that can drive up volume and
           push down costs. Some of India’s biggest companies have jumped on the
-          hydrogen bandwagon, including Reliance Industries, Adani Group,
-          national power company NTCP, Renew Energy and Indian Oil Co. They’re
+          hydrogen bandwagon, including{" "}
+          <a href="https://billspindle.substack.com/p/two-titans">
+            {" "}
+            Reliance Industries, Adani Group
+          </a>
+          , national power company NTCP, Renew Energy and Indian Oil Co. They’re
           leveraging India’s sun-drenched northwest deserts and other prime
           solar energy sites. ACME has announced a $7 billion investment to a
           plant in Karnataka state in southern India, another hot spot for clean
@@ -2814,8 +2939,13 @@ const cities = [
           2030, and is investing some $70 billion into green hydrogen to do it.
           The company plans to replace its current production of hydrogen made
           the dirty way, with natural gas, in its refineries (the biggest of
-          which you’ll recall we visited earlier). That would help India
-          massively reduce the amount it pays each year to import natural gas.
+          which you’ll{" "}
+          <a href="https://billspindle.substack.com/p/at-the-worlds-largest-oil-refinery">
+            {" "}
+            recall we visited earlier
+          </a>
+          ). That would help India massively reduce the amount it pays each year
+          to import natural gas.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa40c6308-18a7-438d-839f-8cdece1c3600_5110x3407.jpeg"
@@ -2855,11 +2985,28 @@ const cities = [
           role in its energy transition.
         </p>
         <p>
-          The northwest is home-base for India’s current oil-and-gas industry,
-          but also hosts the country’s fastest-growing renewables staging
-          ground. The state of Gujarat will help determine whether manufacturing
+          The northwest is home-base for India’s current{" "}
+          <a href="https://billspindle.substack.com/p/at-the-worlds-largest-oil-refinery">
+            {" "}
+            oil-and-gas
+          </a>{" "}
+          industry, but also hosts the country’s fastest-growing{" "}
+          <a href="https://billspindle.substack.com/p/indias-renewables-heartland">
+            {" "}
+            renewables
+          </a>
+          staging ground. The state of Gujarat will help determine whether
+          <a href="https://billspindle.substack.com/p/can-india-become-a-solar-panel-powerhouse">
+            {" "}
+            manufacturing
+          </a>{" "}
           jobs grow as part of the renewables revolution, and what role India’s
-          ambitions in hydrogen will play in the energy transition.
+          ambitions in{" "}
+          <a href="https://billspindle.substack.com/p/seed-of-a-hydrogen-revolution">
+            {" "}
+            hydrogen
+          </a>{" "}
+          will play in the energy transition.
         </p>
         <p>
           Before leaving, though, I wanted to make one more point about the
@@ -2897,8 +3044,12 @@ const cities = [
         <p>
           A better solution, they all realize, is a massive, historic move to
           renewables. The International Energy Agency just upped its global
-          forecast for renewable energy to 85% growth over the next five years,
-          almost one-third faster than it was predicting before Russia’s Ukraine
+          <a href="https://billspindle.substack.com/p/renewables-are-booming-now-comes">
+            {" "}
+            forecast
+          </a>{" "}
+          for renewable energy to 85% growth over the next five years, almost
+          one-third faster than it was predicting before Russia’s Ukraine
           invasion. Europe is leading the charge. It’s aiming for 45% of its
           energy to come from renewables by 2030, up from the 40% it was
           shooting for before the invasion. China has raised its renewable
@@ -2945,11 +3096,20 @@ const cities = [
           overseas when it’s most needed. The idea is just one of several
           initiatives — some actually in the works — for sending renewable
           energy from places where it’s most easily produced to places that need
-          it. One project is planning to ship solar power from Australia’s
-          northwest — one of the sunniest regions in the world — to Singapore
-          via an undersea cable. Another would send solar power from a desert in
-          Morocco — one of many prime solar hotspots in North Africa — to the
-          United Kingdom.
+          it. One{" "}
+          <a href="https://newatlas.com/energy/sun-cable-australia-singapore-solar-undersea-powerlink/">
+            {" "}
+            project
+          </a>{" "}
+          is planning to ship solar power from Australia’s northwest — one of
+          the sunniest regions in the world — to Singapore via an undersea
+          cable.{" "}
+          <a href="https://www.goodnewsnetwork.org/british-villageglobal-energy-industy-morocco-cable/">
+            {" "}
+            Another
+          </a>{" "}
+          would send solar power from a desert in Morocco — one of many prime
+          solar hotspots in North Africa — to the United Kingdom.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a7c9fef-083f-4dde-a3d4-f94f1078f4bc_2732x1643.jpeg"
@@ -2970,25 +3130,31 @@ const cities = [
         </p>
         <p>
           These projects are obviously complicated and could prove to be too
-          expensive. The Australia-to-Singapore transmission cable, which is
-          furthest along in the planning stages, is pegged at $22 billion and
-          could power as many as three million homes, providing 15% of the city
-          state’s electricity needs.
+          expensive. The Australia-to-Singapore transmission{" "}
+          <a href="https://www.youtube.com/watch?v=z4oOGUyAEOM">cable</a> ,
+          which is furthest along in the planning stages, is pegged at $22
+          billion and could power as many as three million homes, providing 15%
+          of the city state’s electricity needs.
         </p>
         <p>
           And, of course, these sorts of cross-border energy flows would
           reintroduce some of the same vulnerabilities as good old fossil fuels.
           The cables could be sabotaged, just as two gas pipelines from Russia
-          to Europe were blown up earlier this year. And countries would have to
-          be mindful of linking up with countries with which they’re not on
-          friendly terms, a la Europe’s gas ties to Russia. But this sort of
-          cooperation could work the other way, cementing ties between friendly
-          countries in the same way “friend-shoring” is intended to do with
-          trade flows. India, the UAE, Singapore and Australia are all close
-          friends with the US, which could help finance some of this
-          infrastructure. It’s the kind of thing the UAE might also contribute
-          funds to, as part of its own renewables expansion and goals going into
-          the COP28 climate conference it will be hosting next fall.
+          to Europe were{" "}
+          <a href="https://www.newscientist.com/article/2347719-nord-stream-gas-pipe-explosions-were-sabotage-say-investigators/">
+            {" "}
+            blown up
+          </a>{" "}
+          earlier this year. And countries would have to be mindful of linking
+          up with countries with which they’re not on friendly terms, a la
+          Europe’s gas ties to Russia. But this sort of cooperation could work
+          the other way, cementing ties between friendly countries in the same
+          way “friend-shoring” is intended to do with trade flows. India, the
+          UAE, Singapore and Australia are all close friends with the US, which
+          could help finance some of this infrastructure. It’s the kind of thing
+          the UAE might also contribute funds to, as part of its own renewables
+          expansion and goals going into the COP28 climate conference it will be
+          hosting next fall.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F47ff2db6-c016-4af5-8639-c9f1e8fdeb65_4032x3024.jpeg"
@@ -3061,16 +3227,24 @@ const cities = [
           batteries for storing renewable energy produced by the solar panels.
           Then will come another giant factory to make hydrogen electrolyzers, a
           carbon-free technology coming into view as a potential mainstay of the
-          new energy age for making steel and fertilizers, as well as powering
-          ships and perhaps someday even planes. Following the electrolyzer
-          plant will come another factory that will manufacture fuel cells.
-          These will deploy the hydrogen to power trucks and buses, perhaps
-          cars. It’s an ambitious plan that starts with Reliance itself reaching
-          net-zero carbon status by 2035 and builds from there to help India
-          reach its national goals along the way to net zero by 2070. Ambani has
-          vowed to pour $80 billion of investment into the project before the
-          end of the decade, a scale and speed rivaling anything Reliance has
-          done.
+          <a href="https://www.siemens-energy.com/global/en/offerings/renewable-energy/hydrogen-solutions.html">
+            {" "}
+            new energy
+          </a>{" "}
+          age for{" "}
+          <a href="https://ieefa.org/wp-content/uploads/2022/04/Green-Ammonia_Low-Hanging-Fruit-for-Indias-Green-Hydrogen-Dream_April-2022.pdf">
+            {" "}
+            making
+          </a>{" "}
+          steel and fertilizers, as well as powering ships and perhaps someday
+          even planes. Following the electrolyzer plant will come another
+          factory that will manufacture fuel cells. These will deploy the
+          hydrogen to power trucks and buses, perhaps cars. It’s an ambitious
+          plan that starts with Reliance itself reaching net-zero carbon status
+          by 2035 and builds from there to help India reach its national goals
+          along the way to net zero by 2070. Ambani has vowed to pour $80
+          billion of investment into the project before the end of the decade, a
+          scale and speed rivaling anything Reliance has done.
         </p>
         <p>
           No doubt he’s serious. The Jamnagar refinery rose with stunning speed,
@@ -3080,9 +3254,13 @@ const cities = [
           Reliance founder Dhirubhai Ambani: “For those who dare to dream, there
           are worlds to win.” Senior managers routinely, without a trace of
           irony, say things like, “The word ‘impossible’ doesn’t exist here.”
-          This corporate promotional video about the construction of the
-          Jamnagar complex gives you a sense of how the company, and many
-          employees, view their mission.
+          This corporate{" "}
+          <a href="https://www.youtube.com/watch?v=oU-vDjhK_jQ">
+            {" "}
+            promotional video
+          </a>{" "}
+          about the construction of the Jamnagar complex gives you a sense of
+          how the company, and many employees, view their mission.
         </p>
         <p>
           The Ambanis have also carefully aligned their ambitions with those of
@@ -3110,11 +3288,25 @@ const cities = [
         <span>Photo: Getty Images</span>
         <p>
           The Modi government is focused on energy, particularly renewable
-          energy and hydrogen. So is Reliance. One of the top Jio executives
-          from that time is now heading the company’s renewable energy efforts.
-          The company is just one of several oil and gas heavyweights in India
-          that are joining the renewables binge, some of whom I’ve written about
-          earlier and others I have yet to get to.
+          energy and{" "}
+          <a href="https://economictimes.indiatimes.com/industry/renewables/how-india-can-position-itself-as-a-low-cost-zero-carbon-green-hydrogen-manufacturing-hub/articleshow/90751079.cms?from=mdr">
+            {" "}
+            hydrogen
+          </a>
+          . So is Reliance. One of the top Jio executives from that time is now
+          heading the company’s renewable energy efforts. The company is just
+          one of several oil and gas heavyweights in India that are joining the
+          renewables binge, some of whom I’ve written about{" "}
+          <a href="https://billspindle.substack.com/p/two-titans?s=w">
+            {" "}
+            earlier
+          </a>{" "}
+          and{" "}
+          <a href="https://www.tatapower.com/media/PressReleaseDetails/1938/tata-power-to-create-indias-most-comprehensive-renewable-energy-platform-raising-rs4000-crore">
+            {" "}
+            others
+          </a>{" "}
+          I have yet to get to.
         </p>
         <p>
           It is impossible to stand on the still quiet but soon-to-be-bustling
@@ -3132,9 +3324,10 @@ const cities = [
         <p>
           Where should we get our energy from, both now and in the future? The
           rapidly growing urgency of climate change tells us it must come from
-          non-carbon sources, starting immediately. Soaring prices of oil, gas
-          and coal tell us to hustle for more of any of those we can get into
-          the system quickly to bring prices down.
+          non-carbon sources, starting{" "}
+          <a href="https://www.ipcc.ch/"> immediately</a>. Soaring prices of
+          oil, gas and coal tell us to hustle for more of any of those we can
+          get into the system quickly to bring prices down.
         </p>
         <p>
           In the breach, different parts of the world are responding to these
@@ -3143,13 +3336,17 @@ const cities = [
           a push is on to produce still more oil and gas. Europe — dependent on
           imports for 60% of its energy, a good deal of it from Russia — lurches
           between clinging even to Russian oil and gas while trying to square
-          that with a realization now is the moment to decarbonize its energy
-          sources. Middle East petro-states revel in the world’s sudden seeming
-          desperation for fossil fuels only months after so many urged their
-          rapid phase out at a global climate conference last year. India and
-          China, both importing a greater share of their energy even than
-          Europe, are grabbing any immediate sources of fossil fuel they can
-          find, from Russian crude to domestic coal.
+          that with a realization{" "}
+          <a href="https://delano.lu/article/energy-transition-is-now-or-ne">
+            {" "}
+            now is the moment
+          </a>{" "}
+          to decarbonize its energy sources. Middle East petro-states revel in
+          the world’s sudden seeming desperation for fossil fuels only months
+          after so many urged their rapid phase out at a global climate
+          conference last year. India and China, both importing a greater share
+          of their energy even than Europe, are grabbing any immediate sources
+          of fossil fuel they can find, from Russian crude to domestic coal.
         </p>
         <p>
           As during the oil shocks of the 1970s, energy security is front of
@@ -3165,16 +3362,21 @@ const cities = [
           squeeze out new efficiencies and benefits.
         </p>
         <p>
-          There are heat pumps! Good old fashioned turning down the thermostat
-          in every gas-heated building in Europe by a single degree would save
-          6% of the amount of gas the E.U. imported from Russia last year,
-          according to the International Energy Agency. The outright leakage and
-          deliberate wastage of total gas supplies going into Europe is equal to
-          about one-fifth of all the Russian gas imported by the E.U., the
-          agency says. Reducing those would not only create more marketable gas
-          but also substantially reduce emissions of methane, an incredibly
-          potent greenhouse gas most nations and companies have already vowed to
-          stop emitting.
+          There are{" "}
+          <a href="https://www.energy.gov/energysaver/heat-pump-systems">
+            {" "}
+            heat pumps
+          </a>
+          ! Good old fashioned turning down the thermostat in every gas-heated
+          building in Europe by a single degree would save 6% of the amount of
+          gas the E.U. imported from Russia last year, according to the
+          International Energy Agency. The outright leakage and deliberate
+          wastage of total gas supplies going into Europe is equal to about
+          one-fifth of all the Russian gas imported by the E.U., the agency
+          says. Reducing those would not only create more marketable gas but
+          also substantially reduce emissions of methane, an incredibly potent
+          greenhouse gas most nations and companies have already vowed to stop
+          emitting.
         </p>
         <p>
           The U.S. may ramp up some oil and gas production for now. Europe may
@@ -3183,13 +3385,21 @@ const cities = [
           ever this year.
         </p>
         <p>
-          Yet China also led the world in solar power last year, adding an
-          amount almost equal to the total power capacity of Spain. It might add
-          another third more again this year, alongside world-beating
-          installations of offshore wind turbines. Reliance’s Jamnagar refinery
-          is still operating at maximum capacity. Yet next door, on a field very
-          soon to be no longer flat and empty, the future of clean energy
-          production is gathering force.
+          Yet China also{" "}
+          <a href="https://www.climateandcapitalmedia.com/china-accelerates-its-lead-in-the-global-energy-transition-race-to-decarbonization/">
+            {" "}
+            led the world
+          </a>{" "}
+          in solar power last year, adding an amount almost equal to the total
+          power capacity of Spain. It might add another third more again this
+          year, alongside world-beating installations of{" "}
+          <a href="https://www.bloomberg.com/news/articles/2022-04-15/china-s-top-planner-sees-record-wind-and-solar-additions-in-2022?sref=tkNfFrtY">
+            {" "}
+            offshore wind
+          </a>{" "}
+          turbines. Reliance’s Jamnagar refinery is still operating at maximum
+          capacity. Yet next door, on a field very soon to be no longer flat and
+          empty, the future of clean energy production is gathering force.
         </p>
         <p>
           It’s not likely to be thwarted. Countries focused on energy security,
@@ -3399,12 +3609,17 @@ const cities = [
         <p>
           <i>
             This week, the world’s top group of scientists examining climate
-            change dropped a colossal compendium of the impacts that global
-            warming is already having on the planet. The official summary of the
-            report runs nearly 100 pages, with the full report weighing in at
-            around ten times that. There’s a lot of climate impact already
-            underway. The report meticulously, scientifically works its way
-            through all of them, touching on nearly every corner of the earth.
+            change dropped a{" "}
+            <a href="https://reliefweb.int/report/world/climate-change-2022-impacts-adaptation-and-vulnerability">
+              {" "}
+              colossal compendium
+            </a>{" "}
+            of the impacts that global warming is already having on the planet.
+            The official summary of the report runs nearly 100 pages, with the
+            full report weighing in at around ten times that. There’s a lot of
+            climate impact already underway. The report meticulously,
+            scientifically works its way through all of them, touching on nearly
+            every corner of the earth.
           </i>
         </p>
 
@@ -3430,10 +3645,15 @@ const cities = [
         <p>
           <i>
             We’ve examined and analyzed many of these issues in this newsletter,
-            focusing on India (here’s why). The journey now takes to India
-            itself for the coming months. The global climate report this week —
-            the second of three by the group — is as mammoth as the challenges
-            ahead. But that doesn’t mean they’re insurmountable…..
+            focusing on India{" "}
+            <a href="https://billspindle.substack.com/p/its-off-to-indiaand-again-heres-why?utm_source=url">
+              {" "}
+              (here’s why)
+            </a>
+            . The journey now takes to India itself for the coming months. The
+            global climate report this week — the second of three by the group —
+            is as mammoth as the challenges ahead. But that doesn’t mean they’re
+            insurmountable…..
           </i>
         </p>
         <br></br>
@@ -3455,8 +3675,13 @@ const cities = [
         <br></br>
         <p>
           This is the cattle barn at the Ram Ratna Vidya Mandir school in the
-          district of Mira Bhayandar, along India’s Arabian seacoast. It’s an
-          hour’s drive north of central Mumbai (once known as Bombay).
+          district of{" "}
+          <a href="https://en.wikipedia.org/wiki/Mira-Bhayandar">
+            {" "}
+            Mira Bhayandar
+          </a>
+          , along India’s Arabian seacoast. It’s an hour’s drive north of
+          central Mumbai (once known as Bombay).
         </p>
         <p>
           The herd is owned and managed by a civil society group to provide milk
@@ -3467,7 +3692,8 @@ const cities = [
         </p>
         <p>
           On its own, the biogas project is tiny. Overseen by another, energy
-          focused civil society group called Gram Oorja — which loosely
+          focused civil society group called{" "}
+          <a href="https://gramoorja.in/"> Gram Oorja</a> — which loosely
           translated means Energy for the Village — the facility turns cow dung
           into cooking gas. End products also include a manure slurry that’s
           used as fertilizer on nearby fields to grow mango, coconuts and other
@@ -3513,10 +3739,15 @@ const cities = [
           drinking water from the sea and transform fresh water into hydrogen
           that can provide the heat to make “green” steel or propel airplanes.
           Even carbon removed from the atmosphere can be locked up by forging it
-          into useful materials. The additional energy India will need to
-          develop will increasingly need to come from renewable sources, small
-          ones like the biogas facility here but also extremely large ones that
-          apply some of the same principles.
+          into{" "}
+          <a href="https://www.dezeen.com/2021/06/27/carbon-negative-carbon-neutral-materials-roundup/">
+            {" "}
+            useful materials
+          </a>
+          . The additional energy India will need to develop will increasingly
+          need to come from renewable sources, small ones like the biogas
+          facility here but also extremely large ones that apply some of the
+          same principles.
         </p>
         <p>What’s perhaps the most important of those principles?</p>
         <p>
@@ -3563,7 +3794,8 @@ const cities = [
           Inside the digester, an underground concrete cylinder with a loose
           canvas cover, bacteria go to work doing their thing, producing gas in
           the process. That inflates dome on top of the digester like a balloon.
-          Here’s what it looks like, decorated with what’s known as Warli
+          Here’s what it looks like, decorated with what’s known as{" "}
+          <a href="https://en.wikipedia.org/wiki/Warli_painting"> Warli</a>
           painting by tribal groups from the area and whose children attend the
           school….
         </p>
@@ -3574,8 +3806,12 @@ const cities = [
         <span>Photo by Bill Spindle</span>
         <br></br>
         <p>
-          Before the gas can be used, smelly and poisonous hydrogen sulfide has
-          to be “scrubbed out”. That’s what this machine does…..
+          Before the gas can be used, smelly and poisonous{" "}
+          <a href="https://en.wikipedia.org/wiki/Hydrogen_sulfide">
+            {" "}
+            hydrogen sulfide
+          </a>{" "}
+          has to be “scrubbed out”. That’s what this machine does…..
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d35e01c-5dd6-4971-956d-f05b75f86283_4032x3024.jpeg"
@@ -3740,11 +3976,16 @@ const cities = [
 
         <p>
           A year ago as I made my way through India, a record spring heat wave
-          enveloped the country. I wrote about it here. The spike in
-          temperatures severely damaged India’s mango crop, cratering the income
-          of many thousands of farmers in the country’s mango growing regions.
-          Tens of millions of mango lovers were left without their favorite
-          early summer treat, or paying ultra-premium prices for what survived.
+          enveloped the country. I wrote about it{" "}
+          <a href="https://www.theatlantic.com/ideas/archive/2022/05/india-heat-wave-climate-change/629786/">
+            {" "}
+            here
+          </a>
+          . The spike in temperatures severely damaged India’s mango crop,
+          cratering the income of many thousands of farmers in the country’s
+          mango growing regions. Tens of millions of mango lovers were left
+          without their favorite early summer treat, or paying ultra-premium
+          prices for what survived.
         </p>
         <p>
           India is the world’s largest grower of mangoes, and has been for a
@@ -3755,8 +3996,12 @@ const cities = [
         <p>
           Climate change has hit mango orchards in several ways. Sporadic rains
           now sometimes extend into December — well past the end of the
-          traditional monsoon, a climate trend we looked at in my last post.
-          That frequently delays the flowering of mango trees from the usual
+          traditional monsoon, a climate trend we looked at in my last{" "}
+          <a href="https://billspindle.substack.com/p/from-goa-to-the-warming-poles">
+            {" "}
+            post
+          </a>
+          . That frequently delays the flowering of mango trees from the usual
           November and December until January, which pushes the ripening of the
           mangoes past March and into May and even June. Thus the harvest
           crosses into the ensuing year’s monsoon, which begins in June and
@@ -3777,12 +4022,16 @@ const cities = [
         <p>
           The travails of the mango are a reminder that even as climate change
           threatens existential damage in so many ways — to everything from
-          parasites to whole countries and ecosystems, conceivably even our
-          species one day — it also threatens right now many small things that
-          make life worth living. We can survive without mangoes. But, as with
-          so many things climate change is altering and will soon alter much
-          more, the magnificent diversity and sheer pleasures of the planet are
-          already shriveling.
+          <a href="https://www.nytimes.com/2023/01/09/science/parasites-global-warming.html?smid=nytcore-ios-share&referringSource=articleShare">
+            {" "}
+            parasites
+          </a>{" "}
+          to whole countries and ecosystems, conceivably even our species one
+          day — it also threatens right now many small things that make life
+          worth living. We can survive without mangoes. But, as with so many
+          things climate change is altering and will soon alter much more, the
+          magnificent diversity and sheer pleasures of the planet are already
+          shriveling.
         </p>
         <p>
           Sometimes we feel the impact more in the small things, like the
@@ -3818,18 +4067,35 @@ const cities = [
           Beyond the shifting rains, Bhide said insect and bacterial pest
           threats are changing with more frequent off-season rains and higher
           average temperatures and heat waves. Like the younger generations of
-          tea growers we met in Darjeeling, mango farmers along the northern
-          Konkan coast are moving towards sustainable, organic farming
-          techniques to try to make their crop more resilient in the face of new
-          conditions.
+          tea growers{" "}
+          <a href="https://billspindle.substack.com/p/what-tea-tells-us-about-climate-and">
+            {" "}
+            we met
+          </a>{" "}
+          in Darjeeling, mango farmers along the northern Konkan coast are
+          moving towards sustainable, organic farming techniques to try to make
+          their crop more resilient in the face of new conditions.
         </p>
         <p>
           I won’t belabor the disaster that was last year’s mango crop. This was
-          covered very ably here by The New York Times, and my former colleague
-          at The Wall Street Journal, Shan Li, did a wonderful podcast episode
-          on the anguish of a mango farmer in the state of Uttar Pradesh. NPR’s
-          Diaa Hadid reported on the same crisis in Pakistan to the north of
-          India.
+          covered very ably{" "}
+          <a href="https://www.nytimes.com/2022/05/25/world/asia/india-heat-wave-mango.html?smid=nytcore-ios-share&referringSource=articleShare">
+            {" "}
+            here
+          </a>{" "}
+          by The New York Times, and my former colleague at The Wall Street
+          Journal, Shan Li, did a wonderful{" "}
+          <a href="https://podcasts.apple.com/us/podcast/the-journal/id1469394914?i=1000567311776">
+            {" "}
+            podcast
+          </a>{" "}
+          episode on the anguish of a mango farmer in the state of Uttar
+          Pradesh. NPR’s Diaa Hadid{" "}
+          <a href="https://www.npr.org/2022/08/05/1116036209/pakistans-beloved-mangoes-are-at-risk-as-climate-change-shrinks-harvest">
+            {" "}
+            reported
+          </a>{" "}
+          on the same crisis in Pakistan to the north of India.
         </p>
         <p>
           I’ll likely be back close to India this mango harvest season, in the
@@ -3875,11 +4141,13 @@ const cities = [
 
         <p>
           The earth’s north and south poles are far from the Indian
-          subcontinent. The so-called Third Pole, the heights of the Himalayas,
-          lies partly within India. This trio of extremities play critical roles
-          determining global weather patterns that are of existential importance
-          to India. The most prominent of these is the South Asian monsoon, the
-          annual winds that bring the subcontinent life-giving rain.
+          subcontinent. The so-called{" "}
+          <a href="https://www.thethirdpole.net/en/about/"> Third Pole</a>, the
+          heights of the Himalayas, lies partly within India. This trio of
+          extremities play critical roles determining global weather patterns
+          that are of existential importance to India. The most prominent of
+          these is the South Asian monsoon, the annual winds that bring the
+          subcontinent life-giving rain.
         </p>
         <p>
           India has steadily ramped up efforts to study these far-flung regions.
@@ -3891,9 +4159,11 @@ const cities = [
 
         <p>
           India’s research efforts are based in Goa at the National Center for
-          Polar and Ocean Research, or NCPOR. The institute oversees India’s two
-          research bases in Antarctica and one in the Arctic, as well as a more
-          recently opened research station in the Indian Himalayas.
+          Polar and Ocean Research, or{" "}
+          <a href="https://ncpor.res.in/"> NCPOR</a>. The institute oversees
+          India’s two research bases in Antarctica and one in the Arctic, as
+          well as a more recently opened research station in the Indian
+          Himalayas.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa608c6e7-2f66-463b-9109-a5a5dd3ecba8_5472x3648.jpeg"
@@ -3973,17 +4243,21 @@ const cities = [
 
         <p>
           How climate change will affect the Indian monsoon is thus a matter of
-          considerable scientific study. Climate models predict that warmer
-          temperatures should intensify the monsoon, bringing more rain and
-          stronger winds to India. So far, though, that’s not exactly what’s
-          happened, due to another problem created by industrialization: air
-          pollution. Average monsoon rains actually weakened through the latter
-          half of the 20th century as India developed one of the worst air
-          pollution problems in the world. Since the turn of the century,
-          monsoon rains have rebounded, even as air pollution has worsened. Fine
-          particulate matter — created by everything from crop burning to urban
-          construction and coal power generation — blocks sunlight, keeping a
-          lid on atmospheric warming.
+          considerable{" "}
+          <a href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-8/">
+            {" "}
+            scientific study
+          </a>
+          . Climate models predict that warmer temperatures should intensify the
+          monsoon, bringing more rain and stronger winds to India. So far,
+          though, that’s not exactly what’s happened, due to another problem
+          created by industrialization: air pollution. Average monsoon rains
+          actually weakened through the latter half of the 20th century as India
+          developed one of the worst air pollution problems in the world. Since
+          the turn of the century, monsoon rains have rebounded, even as air
+          pollution has worsened. Fine particulate matter — created by
+          everything from crop burning to urban construction and coal power
+          generation — blocks sunlight, keeping a lid on atmospheric warming.
         </p>
         <p>
           It remains to be determined whether all this means that rising
@@ -4004,7 +4278,12 @@ const cities = [
           have caused in recent years. Pakistan experienced an epochal “rain
           bomb” event like this last year, leaving one-third of the country
           under water. The U.S. state of California is experiencing another —a
-          so-called “atmospheric river” of wet air — right now.
+          so-called “atmospheric river” of wet air — right{" "}
+          <a href="https://www.nytimes.com/2023/01/06/us/california-storms-trees.html?smid=nytcore-ios-share&referringSource=articleShare">
+            {" "}
+            now
+          </a>
+          .
         </p>
         <p>
           Researchers at Goa’s polar research center are how climate change is
@@ -4126,13 +4405,18 @@ const cities = [
           port expansion and trying to stop the doubling of the tracks, which
           requires a dramatic widening of the rail corridor through the center
           of a biodiversity reserve. Unlike the Konkan Railway, which parallels
-          the coast and was the subject of my last post, this rail line is
-          exclusively for freight. The first track already cuts through the
-          mountain range known as the Western Ghats to reach the inland Deccan
-          plateau in the state of Karnataka, home of huge steel mills owned by
-          some in India’s richest and most powerful families. The port is
-          operated by Gautam Adani, who has become Asia’s richest man since I
-          wrote about him in this post a few years ago.
+          the coast and was the subject of my last{" "}
+          <a href="https://billspindle.substack.com/p/a-railway-and-the-climate-challenge">
+            {" "}
+            post
+          </a>
+          , this rail line is exclusively for freight. The first track already
+          cuts through the mountain range known as the Western Ghats to reach
+          the inland Deccan plateau in the state of Karnataka, home of huge
+          steel mills owned by some in India’s richest and most powerful
+          families. The port is operated by Gautam Adani, who has become Asia’s
+          richest man since I wrote about him in this{" "}
+          <a href="https://billspindle.substack.com/"> post</a> a few years ago.
         </p>
         <p>
           The movement, which has hamstrung the projects with marches and
@@ -4173,7 +4457,11 @@ const cities = [
         </p>
         <p>
           He brought me to see this home of one of his neighbors. The family
-          claims the foundations date back even before explorer Vasco da Gama’s
+          claims the foundations date back even before explore{" "}
+          <a href="https://en.wikipedia.org/wiki/Vasco_da_Gama">
+            {" "}
+            Vasco da Gama’s
+          </a>
           travels brought him to India in 1498. Today it retains the colonial
           era decor.
         </p>
@@ -4256,21 +4544,39 @@ const cities = [
           church even provided support for the movement.
         </p>
         <p>
-          You can see some of the art works here. And this article has some
-          terrific photos of the region’s natural beauty and unique collection
-          of wildlife. Disha Shetty, one of India’s leading journalists covering
-          environmental, climate and human rights issues, produced this series
+          You can see some of the art works{" "}
+          <a href="https://scroll.in/article/981021/as-goa-resists-three-environmentally-destructive-projects-artists-create-images-to-savemollem">
+            {" "}
+            here
+          </a>
+          . And this{" "}
+          <a href="https://roundglasssustain.com/conservations/goa-mollem-conservation">
+            {" "}
+            article
+          </a>{" "}
+          has some terrific photos of the region’s natural beauty and unique
+          collection of wildlife.{" "}
+          <a href="https://www.dishashetty.in/"> Disha Shetty</a>, one of
+          India’s leading journalists covering environmental, climate and human
+          rights issues, produced this{" "}
+          <a href="https://pulitzercenter.org/projects/rise-citizen-protest-indias-goa">
+            {" "}
+            series
+          </a>{" "}
           of stories on the movement with support from the Washington DC-based
-          Pulitzer Center.
+          <a href="https://pulitzercenter.org/"> Pulitzer Center</a>.
         </p>
         <p>
           I spent a morning in Goa meeting with Sarita Fernandez, a coastal
-          policy expert who has worked to protect the state’s Ridley Sea Turtle
-          population and participated in the Save Mollem movement. She says the
-          government likely didn’t realize what it was up against in Goa, a
-          state with some of India’s highest levels of education and
-          environmental awareness and a long history of defying the powers that
-          be.
+          policy expert who has worked to protect the state’s{" "}
+          <a href="https://www.youtube.com/watch?v=Z26YCO331uw">
+            {" "}
+            Ridley Sea Turtle population
+          </a>{" "}
+          and participated in the Save Mollem movement. She says the government
+          likely didn’t realize what it was up against in Goa, a state with some
+          of India’s highest levels of education and environmental awareness and
+          a long history of defying the powers that be.
         </p>
         <p>“Goans can get really rebellious and they did,” she told me.</p>
         <p>
@@ -4330,11 +4636,19 @@ const cities = [
 
         <p>
           Earlier in our journey we saw how climate change is affecting India’s
-          natural landscapes, such as the Sundarbans wetlands. We looked at the
-          impact on agriculture in the tea fields of Darjeeling. Climate change
-          will also take a huge toll on infrastructure, including the Indian
-          railway — even, or perhaps especially, on infrastructure built to
-          withstand environmental stress.
+          natural landscapes, such as the{" "}
+          <a href="https://billspindle.substack.com/p/the-end-of-the-road-for-climate">
+            {" "}
+            Sundarbans wetlands
+          </a>
+          . We looked at the impact on agriculture in the{" "}
+          <a href="https://billspindle.substack.com/p/what-tea-tells-us-about-climate-and">
+            {" "}
+            tea fields
+          </a>{" "}
+          of Darjeeling. Climate change will also take a huge toll on
+          infrastructure, including the Indian railway — even, or perhaps
+          especially, on infrastructure built to withstand environmental stress.
         </p>
         <p>
           To my suprise, I found Indian railways officials largely unconcerned
@@ -4342,16 +4656,25 @@ const cities = [
           affect the railway. Most of those I asked gave puzzled looks or
           launched into explanations of how the railway was rapidly electrifying
           its operations. The electrification of the railway is, indeed,
-          impressive (if only half the solution, since nearly two-thirds of
-          India’s electricity comes from burning coal).
+          <a href="https://billspindle.substack.com/p/two-trains-one-transition">
+            {" "}
+            impressive
+          </a>{" "}
+          (if only half the solution, since nearly two-thirds of India’s
+          electricity comes from burning coal).
         </p>
 
         <p>
           But I was interested in more than how the railway is doing its part by
           cutting its carbon footprint. I also wanted to know how the railway —
           among the world’s largest pieces of infrastructure — will deal with
-          the fallout from climate change: rising sea levels, stronger storms,
-          more intense rains, and heat waves.
+          the{" "}
+          <a href="https://billspindle.substack.com/p/the-end-of-the-road-for-climate">
+            {" "}
+            fallout
+          </a>{" "}
+          from climate change: rising sea levels, stronger storms, more intense
+          rains, and heat waves.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd42c743-e5dd-4320-bae5-6428b442354f_4032x3024.jpeg"
@@ -4366,9 +4689,13 @@ const cities = [
           railway employs some 1.5 million Indians, many of them working
           outdoors or in unairconditioned spaces. It transports over 20 million
           riders daily, most traveling in carriages without air conditioning.
-          Surely lethal heat waves like the one India experienced when I was
-          there would be top of mind. So, too, higher winds and more intense
-          rain.
+          Surely lethal heat waves like the one{" "}
+          <a href="https://www.theatlantic.com/ideas/archive/2022/05/india-heat-wave-climate-change/629786/">
+            {" "}
+            India experienced
+          </a>{" "}
+          when I was there would be top of mind. So, too, higher winds and more
+          intense rain.
         </p>
         <p>
           Somewhere within the sprawling railway bureaucracy someone must be
@@ -4446,9 +4773,10 @@ const cities = [
         </p>
         <p>
           Yet climate change will bring new challenges, not so much in type as
-          in intensity, according to a 2013 study by researchers at the Indian
-          Institute of Management in Ahmedabad. These challenges will manifest
-          in two ways.
+          in intensity, according to a 2013{" "}
+          <a href="https://wedocs.unep.org/handle/20.500.11822/16978"> study</a>{" "}
+          by researchers at the Indian Institute of Management in Ahmedabad.
+          These challenges will manifest in two ways.
         </p>
         <p>
           The first will be a steady step-up in the average temperature, with
@@ -4589,7 +4917,9 @@ const cities = [
             Himalayas with a surprise stop where our adventure ends, or at least
             THIS adventure ends. There’s still a lot more to come. For those who
             joined along the way, you can find posts from all my previous stops
-            in the archives of this blog.
+            in the{" "}
+            <a href="https://billspindle.substack.com/archive"> archives</a> of
+            this blog.
           </i>
         </p>
         <p>
@@ -4623,12 +4953,18 @@ const cities = [
           we harness it to realize our dreams.
         </p>
         <p>
-          The 1955 film Pather Panchali, by legendary Bengali director Satyajit
-          Ray, captures this ambivalence in its opening scene. It is the dawn of
-          the modern age in early 20th century Bengal. Teenage Durga and her
-          little brother Apu stand under a matrix of foreign, buzzing electrical
-          transmission lines. They walk into a field of tall grass and wait —
-          for the whistle of the train.
+          The 1955 film{" "}
+          <a href="https://www.imdb.com/title/tt0048473/"> Pather Panchali</a>,
+          by legendary Bengali director Satyajit Ray, captures this ambivalence
+          in its{" "}
+          <a href="https://www.youtube.com/watch?v=be6ZoFguCx8">
+            {" "}
+            opening scene
+          </a>
+          . It is the dawn of the modern age in early 20th century Bengal.
+          Teenage Durga and her little brother Apu stand under a matrix of
+          foreign, buzzing electrical transmission lines. They walk into a field
+          of tall grass and wait — for the whistle of the train.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cdc6114-0faa-4720-bccc-4c65b11cf8f3_2732x2048.png"
@@ -4653,8 +4989,12 @@ const cities = [
           trepidation into affection, and then we package it up into nostalgia.
           It’s a necessary process, like grieving, that helps us move on to
           confront and conquer the next new technology. That’s what Satyajit Ray
-          is doing with the Apu trilogy, a coming of age tale in which this
-          movie is part one.
+          is doing with the{" "}
+          <a href="https://en.wikipedia.org/wiki/The_Apu_Trilogy">
+            {" "}
+            Apu trilogy
+          </a>
+          , a coming of age tale in which this movie is part one.
         </p>
         <p>
           I’ve thought a lot about this since visiting T.R. Raghunandan, a
@@ -4691,10 +5031,24 @@ const cities = [
           We often think of energy transitions as purely technical undertakings.
           But as I explain in this earlier post, the most obvious challenges
           right now are less scientific than political and economic — the mire
-          of vested interests, greenwashing and outdated business models. There
-          are emotional and psychological impediments — fears, really, of
-          change, of the unknown, of the daunting challenges ahead — holding us
-          back, too. These hurdles are underappreciated, I believe, and more
+          of{" "}
+          <a href="https://billspindle.substack.com/p/the-free-power-flywheel">
+            {" "}
+            vested interests
+          </a>
+          ,{" "}
+          <a href="https://www.cjr.org/first_person/my-case-against-fossil-fuel-advertising.php">
+            {" "}
+            greenwashing
+          </a>{" "}
+          and outdated{" "}
+          <a href="https://orionmagazine.org/article/climate-denial-electric-utility-companies/">
+            {" "}
+            business models
+          </a>
+          . There are emotional and psychological impediments — fears, really,
+          of change, of the unknown, of the daunting challenges ahead — holding
+          us back, too. These hurdles are underappreciated, I believe, and more
           attention to clearing them away would help us through the thicket of
           our mid-transition malaise.
         </p>
@@ -4725,12 +5079,18 @@ const cities = [
           landed in India’s elite civil service. He worked on local governance
           issues and eventually retired, becoming an international consultant to
           encourage emerging democracies from Mongolia and East Timor. He had a
-          moment of international acclaim when he started a website, I Paid a
-          Bribe, which encouraged regular citizens to admit each time they paid
-          a bribe, explain the circumstances and how they felt. It was a way of
-          fighting, through empowerment by cathartic exposure, an endemic
-          problem that hamstrings India’s economy and leaves many Indians
-          ashamed and dispirited.
+          moment of{" "}
+          <a href="https://www.independent.co.uk/news/world/asia/ipaidabribe-com-ndash-india-s-front-line-in-the-war-on-corruption-2120527.html">
+            {" "}
+            international acclaim
+          </a>{" "}
+          when he started a website, I{" "}
+          <a href="https://www.ipaidabribe.com/">Paid a Bribe</a>, which
+          encouraged regular citizens to admit each time they paid a bribe,
+          explain the circumstances and how they felt. It was a way of fighting,
+          through empowerment by cathartic exposure, an endemic problem that
+          hamstrings India’s economy and leaves many Indians ashamed and
+          dispirited.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae574c27-335c-4fef-93cc-c42cac21b9de_4032x3024.jpeg"
@@ -4882,9 +5242,28 @@ const cities = [
           imagine being consumed by the surrounding turbulent sea. The Bay of
           Bengal is visible to the left, through the Palk Straits. The Indian
           Ocean is to the right, via the Gulf of Mannar. We have now crossed
-          from India’s west coast (which I wrote about here, here, here and
-          here) to its eastern shores. From here our travels will turn back
-          north to where we began.
+          from India’s west coast (which I wrote about{" "}
+          <a href="https://billspindle.substack.com/p/a-railway-and-the-climate-challenge">
+            {" "}
+            here
+          </a>
+          ,
+          <a href="https://billspindle.substack.com/p/from-goa-to-the-warming-poles">
+            {" "}
+            here
+          </a>
+          ,
+          <a href="https://billspindle.substack.com/p/is-it-too-early-to-long-for-the-mango">
+            {" "}
+            here
+          </a>{" "}
+          and{" "}
+          <a href="https://billspindle.substack.com/p/coal-conundrum-goan-style">
+            {" "}
+            here
+          </a>
+          ) to its eastern shores. From here our travels will turn back north to
+          where we began.
         </p>
         <p>
           Over time, we tame these technologies. We learn to leverage and live
@@ -4938,8 +5317,12 @@ const cities = [
           or “crossing point” in Sanskrit, where the world we experience in
           daily life meets a sacred realm overlaid upon it. These exist
           throughout India, forming a sacred landscape, or map, described
-          brilliantly by the academic Diana Eck in her book, India: A Sacred
-          Geography.
+          brilliantly by the academic Diana Eck in her{" "}
+          <a href="https://www.amazon.com/India-Sacred-Geography-Diana-Eck/dp/0385531923/ref=nodl_?dplnkId=55084a13-600d-4a8f-a599-272911c65d53">
+            {" "}
+            book
+          </a>
+          , India: A Sacred Geography.
         </p>
         <p>
           For the tens of millions of Hindu devotees who trod paths to these
@@ -5186,11 +5569,15 @@ const cities = [
 
         <p>
           Beyond the destruction of thousands of acres of mangrove wetland —
-          which, as we’ve seen, could be absorbing atmospheric carbon and
-          providing a barrier of protection against rising sea levels and
-          stronger and more frequent cyclones — the fishing communities that
-          once thrived on these once-robust inland waterways have suffered the
-          most.
+          which,{" "}
+          <a href="https://billspindle.substack.com/p/in-the-sprawl-of-the-sunderbans-climate">
+            {" "}
+            as we’ve seen
+          </a>
+          , could be absorbing atmospheric carbon and providing a barrier of
+          protection against rising sea levels and stronger and more frequent
+          cyclones — the fishing communities that once thrived on these
+          once-robust inland waterways have suffered the most.
         </p>
         <p>
           Poor and politically powerless, they’ve confronted decades of air and
@@ -5262,9 +5649,19 @@ const cities = [
         <p>There are few winners in the kingdom of coal.</p>
         <p>
           We’ve looked at the burdens India’s heavy coal use places on its
-          people, here and here. Now we look at coal-dependent communities
-          themselves, where the challenge is not just coal today but also what
-          happens when coal goes away.
+          people,{" "}
+          <a href="https://billspindle.substack.com/p/chennais-toll-from-coal">
+            {" "}
+            here
+          </a>{" "}
+          and{" "}
+          <a href="https://billspindle.substack.com/p/coal-conundrum-goan-style">
+            {" "}
+            here
+          </a>
+          . Now we look at coal-dependent communities themselves, where the
+          challenge is not just coal today but also what happens when coal goes
+          away.
         </p>
         <p>
           For the eastern Indian district of Angul, among India’s first and most
@@ -5290,13 +5687,18 @@ const cities = [
           Demand is even higher this year, the scramble for coal even more
           intense. India’s electricity consumption has climbed at a double digit
           pace so far this spring. It’s turning out to be even warmer, even
-          earlier than last year, when India experienced the hottest spring in a
-          century. But it’s not just the heat waves, which boost air
-          conditioning use, that are driving up consumption. India has a growing
-          population that will become the world’s largest this year, and an
-          expanding industrial base. Both have Indian authorities hustling, year
-          after year, to find more fuel. By short-term necessity and long-term
-          habit, they lean heavily on coal.
+          earlier than{" "}
+          <a href="https://www.theatlantic.com/ideas/archive/2022/05/india-heat-wave-climate-change/629786/">
+            {" "}
+            last year
+          </a>
+          , when India experienced the hottest spring in a century. But it’s not
+          just the heat waves, which boost air conditioning use, that are
+          driving up consumption. India has a growing population that will
+          become the world’s largest this year, and an expanding industrial
+          base. Both have Indian authorities hustling, year after year, to find
+          more fuel. By short-term necessity and long-term habit, they lean
+          heavily on coal.
         </p>
         <img
           src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd12a7a69-66ea-428d-b3e4-0fc050f81d88_5472x3648.jpeg"
@@ -5633,17 +6035,52 @@ const cities = [
           alt="bill spindle"
         ></img>
         <span>
-          Our climate and energy journey loosely followed the Ganges upstream as
-          far as India’s capital, Delhi. From there we crossed the country’s
-          northwest, proceeded down the Arabian sea coast, and cut across the
-          Deccan plateau that sprawls across the interior of the subcontinent.
-          We made our southernmost stop in the city of Rameshwaram, which is
-          also the southernmost of the major pilgrimage sites in the Hindu
-          mythological constellation. Here, the man-god Ram is said to have
-          built a bridge to the island Lanka off the Indian coast to rescue his
-          wife, Siti, from the clutches of the evil Ravana. The whole of India
-          is sometimes referred to — including in the motto of the Geographical
-          Survey of India — as the land “from the Himalayas to the Bridge.”
+          Our climate and energy journey loosely followed the Ganges{" "}
+          <a href="https://billspindle.substack.com/p/the-free-power-flywheel">
+            {" "}
+            upstream
+          </a>{" "}
+          as far as India’s capital,{" "}
+          <a href="https://billspindle.substack.com/p/biodiversity-in-the-big-city">
+            {" "}
+            Delhi
+          </a>
+          . From there we{" "}
+          <a href="https://billspindle.substack.com/p/indias-renewables-heartland">
+            {" "}
+            crossed
+          </a>{" "}
+          the country’s{" "}
+          <a href="https://billspindle.substack.com/p/from-gujarat-to-the-world-and-back">
+            {" "}
+            northwest
+          </a>
+          , proceeded down the{" "}
+          <a href="https://billspindle.substack.com/p/is-it-too-early-to-long-for-the-mango">
+            {" "}
+            Arabian sea
+          </a>
+          <a href="https://billspindle.substack.com/p/coal-conundrum-goan-style">
+            {" "}
+            coast
+          </a>
+          , and cut across the Deccan plateau that sprawls across the{" "}
+          <a href="https://billspindle.substack.com/p/elephant-dung-paper-to-trains-from">
+            {" "}
+            interior
+          </a>
+          of the subcontinent. We made our southernmost stop in the city of
+          <a href="https://billspindle.substack.com/p/the-three-layers-of-rameshwaram">
+            {" "}
+            Rameshwaram
+          </a>
+          , which is also the southernmost of the major pilgrimage sites in the
+          Hindu mythological constellation. Here, the man-god Ram is said to
+          have built a bridge to the island Lanka off the Indian coast to rescue
+          his wife, Siti, from the clutches of the evil Ravana. The whole of
+          India is sometimes referred to — including in the motto of the
+          Geographical Survey of India — as the land “from the Himalayas to the
+          Bridge.”
         </span>
         <br></br>
         <p>
@@ -5661,48 +6098,101 @@ const cities = [
         <span>The road and then footpath from Dehradun to Kedarnath.</span>
         <br></br>
         <p>
-          I found: India is making rapid progress installing renewable energy,
-          although still falling short of its most ambitious goals and sometimes
-          tempering them in the face of daunting challenges. The gyrations of
-          international energy markets since Russia’s invasion of Ukraine have
-          led to a renewed push for coal, despite the foul air and high carbon
-          emissions they produce, to shore up the country’s energy security. But
-          the shock of skyrocketing global fossil fuel prices has also redoubled
-          India’s determination to grow renewables faster. This month the
-          government announced plans to more than triple the amount of renewable
-          energy capacity commissioned for construction each year, from 15.5
-          gigawatts last year to 50 gigawatts going forward. At least that much
-          will be needed to reach the government’s target of half the country’s
-          power coming from carbon free sources by 2030. Ultimately, the pace of
-          India’s energy transition will turn on cutting the cost of energy
-          storage systems — batteries, pumped water, air compressors, whatever
-          works — to the point where renewables comprehensively eclipse coal.
-          That juncture, already the state of play in many markets around the
-          world, is only a few years away in India, as well.
+          I found: India is making rapid progress installing{" "}
+          <a href="https://billspindle.substack.com/p/indias-renewables-heartland">
+            {" "}
+            renewable energy
+          </a>
+          , although still falling short of its most ambitious goals and
+          sometimes tempering them in the face of daunting challenges. The
+          gyrations of international{" "}
+          <a href="https://billspindle.substack.com/p/and-in-world-news-india-too-is-roiled">
+            {" "}
+            energy markets
+          </a>{" "}
+          since Russia’s invasion of Ukraine have led to a renewed{" "}
+          <a href="https://billspindle.substack.com/p/of-coal-and-kings">
+            {" "}
+            push for coal
+          </a>
+          , despite the foul air and high carbon emissions they produce, to
+          shore up the country’s energy security. But the shock of skyrocketing
+          global fossil fuel prices has also redoubled India’s determination to
+          grow renewables faster. This month the government announced plans to
+          more than triple the amount of renewable energy capacity commissioned
+          for construction each year, from 15.5 gigawatts last year to 50
+          gigawatts going forward. At least that much will be needed to reach
+          the government’s target of half the country’s power coming from carbon
+          free sources by 2030. Ultimately, the pace of India’s{" "}
+          <a href="https://billspindle.substack.com/p/at-the-worlds-largest-oil-refinery">
+            {" "}
+            energy transition
+          </a>{" "}
+          will turn on cutting the cost of energy storage systems — batteries,
+          pumped water, air compressors, whatever works — to the point where
+          renewables comprehensively eclipse coal. That juncture,{" "}
+          <a href="https://www.lazard.com/research-insights/2023-levelized-cost-of-energyplus/">
+            {" "}
+            already
+          </a>{" "}
+          the state of play in many markets around the world, is only a few
+          years away in India, as well.
         </p>
         <p>
           At that point India’s renewables rush will be constrained not by
           affordability, but by the social, political and economic challenges of
           a fulsome energy transition that we’ve seen so clearly on our journey.
-          This includes the task of vastly expanding energy access. Indians on
-          average use about a quarter the amount of an average Chinese and a
-          tenth of the average American. The transition is already chafing for
-          up-front financing, now dominated by a few mega-conglomerates. The
-          biggest, the Adani Group, has had a rocky run of late. New foreign
-          capital, however, is flowing into the breach. Canadian investor
-          Brookfield Ventures just announced it will pour $1 billion into Indian
-          renewables giant Avaada Energy. But what’s really needed is the
-          overhaul of the World Bank, International Monetary Fund and global
-          multilateral lending system now being considered — one that would
-          vastly increase both public and private funding for renewable energy
-          in the developing world.
+          This includes the task of vastly{" "}
+          <a href="https://billspindle.substack.com/p/energy-the-good-the-bad-and-the-ugly">
+            {" "}
+            expanding energy
+          </a>{" "}
+          access. Indians on average use about a quarter the amount of an
+          average Chinese and a tenth of the average American. The transition is
+          already chafing for up-front financing, now dominated by a few mega-
+          <a href="https://billspindle.substack.com/p/two-titans">
+            conglomerates
+          </a>
+          . The biggest, the Adani Group, has had a{" "}
+          <a href="https://energy.economictimes.indiatimes.com/news/renewable/modis-green-dream-at-risk-as-indian-renewables-hit-by-headwinds/98928375">
+            {" "}
+            rocky run
+          </a>{" "}
+          of late. New foreign capital, however, is flowing into the breach.
+          Canadian investor Brookfield Ventures{" "}
+          <a href="https://economictimes.indiatimes.com/news/company/corporate-trends/brookfield-investing-1-billion-in-avaada/articleshow/99366143.cms">
+            {" "}
+            just announced
+          </a>{" "}
+          it will pour $1 billion into Indian renewables giant Avaada Energy.
+          But what’s really needed is the overhaul of the World Bank,
+          International Monetary Fund and global multilateral lending system now
+          being considered — one that would vastly increase both public and
+          private funding for renewable energy in the developing world.
         </p>
         <p>
-          At the same time, as we’ve also seen, the impacts of climate change
+          At the same time, as we’ve also seen, the{" "}
+          <a href="https://billspindle.substack.com/p/from-goa-to-the-warming-poles">
+            {" "}
+            impacts of climate change
+          </a>
           are proliferating everywhere in India, from the tea fields of
-          Darjeeling to the deserts of Rajasthan to the mango farms on the
-          Arabian Sea coast. These include a massive flood and landslide at
-          Kedarnath itself, in 2013. High above the temple, a glacial lake
+          <a href="https://billspindle.substack.com/p/what-tea-tells-us-about-climate-and">
+            {" "}
+            Darjeeling
+          </a>{" "}
+          to the{" "}
+          <a href="https://www.theatlantic.com/ideas/archive/2022/05/india-heat-wave-climate-change/629786/">
+            {" "}
+            deserts of Rajasthan
+          </a>{" "}
+          to the{" "}
+          <a href="https://billspindle.substack.com/p/is-it-too-early-to-long-for-the-mango">
+            {" "}
+            mango farms
+          </a>{" "}
+          on the Arabian Sea coast. These include a massive flood and landslide
+          at Kedarnath itself, in 2013. High above the temple, a glacial lake
           formed by melting ice, swollen by unprecedented rains, burst. As many
           as 20,000-30,000 pilgrims and local residents were killed in the
           subsequent deluge. Still, no one knows exactly how many. The temple
@@ -5737,12 +6227,21 @@ const cities = [
           the idea of phasing out of all fossil fuels at last year’s preeminant
           United Nation’s climate conference. They should re-up the idea this
           year, seizing global leadership on climate, and try to unlock a flood
-          of foreign funding, I argue.
+          of foreign funding,{" "}
+          <a href="https://billspindle.substack.com/p/fossil-fuel-phase-out-redux">
+            {" "}
+            I argue
+          </a>
+          .
         </p>
         <p>
           What could throw India off track? Many things, from its sclerotic
           legal system to its lackluster schools to its cumbersome manufacturing
-          environment. And one more thing: The rising sectarian chauvinism
+          environment. And one more thing: The rising{" "}
+          <a href="https://billspindle.substack.com/p/the-three-layers-of-rameshwaram">
+            {" "}
+            sectarian chauvinism
+          </a>
           encouraged by the Hindu-nationalist BJP government risks the sort of
           social and political upheaval that could derail the economy and drive
           off desperately needed foreign investment.
