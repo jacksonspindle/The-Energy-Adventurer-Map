@@ -1298,16 +1298,23 @@ const cities = [
       "https://www.nybooks.com/online/2022/06/22/on-the-grid-in-leisang/",
     articleContent: () => (
       <div>
-        <h1>
-          GET THIS ARTICLE :
-          https://www.nybooks.com/online/2022/06/22/on-the-grid-in-leisang/{" "}
-        </h1>
+        <h1>On the Grid in Leisang</h1>
+        <h2>
+          Read this article{" "}
+          <a href="https://www.nybooks.com/online/2022/06/22/on-the-grid-in-leisang/">
+            Here
+          </a>
+        </h2>
+        <img
+          src="https://www.nybooks.com/wp-content/uploads/2022/06/Spindle2-e1655904997984.jpg"
+          alt="Bill Spindle"
+        ></img>
       </div>
     ),
   },
   {
     name: "Darjeeling",
-    position: { lat: 24.7263308, lng: 93.264882 },
+    position: { lat: 27.041, lng: 88.2663 },
     google_maps_url: "https://maps.app.goo.gl/U2PYuFNrHWWM6cfF6?g_st=ic",
     substack_url:
       "https://billspindle.substack.com/p/what-tea-tells-us-about-climate-and",
